@@ -1,0 +1,5 @@
+rootProject.name = 'cocktail-platform'
+include 'core'
+include 'client-api'
+include 'admin-api'
+
